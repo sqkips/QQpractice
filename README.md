@@ -1,2 +1,4 @@
 # QQpractice
 一个Java的多线程以及socket练习
+
+2016年5月24日 MyQQ中是客户端部分,QQserver中是服务器部分。还没有将数据库部分以及帐号注册申请部分加入
